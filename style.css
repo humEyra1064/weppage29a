@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.conteiner{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 10px;
+    padding: 20px 10px;
+}
+.prgrf{
+    color: white;
+}
+span{
+    color: fuchsia;
+}
+ul{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    gap: 1rem;
+    font-size: larger;
+    
+}
+a{
+    text-decoration: none;
+    gap: 1rem;
+    color: white;
+}
