@@ -17,6 +17,7 @@ body{
 }
 .prgrf{
     color: white;
+    font-size: 1.2rem;
 }
 span{
     color: fuchsia;
@@ -48,9 +49,20 @@ a{
    flex-wrap:wrap;
    border-top: 2px solid fuchsia;
 }
+.foto p{
+    color: white;
+    text-align: center;
+   
+}
 
 h1{
     text-align: center;
+    color: white;
+    
+    margin-bottom: 20px;
+    font-size: 3rem;
+    
+   
 }
 .center{
     
@@ -83,22 +95,15 @@ h3{
 }
 .logo img{
     width: 80px;
+    margin: 10px;
 }
-.html{
+.html , .css , .graphic{
     
-    text-align: center;
-    
-    
-}
-.css{
-    
-    text-align: center;
+    text-align: center
     
 }
-.graphic{
-    
-    text-align: center;
-    
+h4{
+    margin: 10px;
 }
 .footer{
     padding:20px ;
